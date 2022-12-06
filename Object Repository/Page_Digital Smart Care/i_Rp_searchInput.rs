@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rp_searchInput</name>
+   <tag></tag>
+   <elementGuidId>5936254b-3124-4417-9f88-de19f96c1e69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.InlineItems-component__inlineItems.InlineItems-component__space-md.InlineItems-component__wrap.DashboardAgent-container__searchContainer > div.InputSearch-component__searchContainer > div.InputSearch-component__iconSearch > #searchInput</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//i[@id='searchInput'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4e601440-e011-4e07-b5c8-33ac05711fe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ico icosearch </value>
+      <webElementGuid>fb1c14ef-ba41-466d-b171-4e608684ed51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchInput</value>
+      <webElementGuid>e9e58d27-b658-4303-bae7-5ce2f001864e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;Agent-layout__appLayout&quot;]/div[@class=&quot;Agent-layout__container&quot;]/div[@class=&quot;Agent-layout__content&quot;]/div[@class=&quot;DashboardAgent-container__dashboardAgentContainer&quot;]/div[@class=&quot;Stack-component__stack Stack-component__space-lg DashboardAgent-container__right&quot;]/div[@class=&quot;InlineItems-component__inlineItems InlineItems-component__space-md InlineItems-component__wrap DashboardAgent-container__searchContainer&quot;]/div[@class=&quot;InputSearch-component__searchContainer&quot;]/div[@class=&quot;InputSearch-component__iconSearch&quot;]/i[@id=&quot;searchInput&quot;]</value>
+      <webElementGuid>15fb24ff-e069-4d84-8c46-3d4cff37a95b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//i[@id='searchInput'])[2]</value>
+      <webElementGuid>5dc21b50-051c-4c91-bd65-c6e8b4276a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div[2]/div/div/div[2]/i</value>
+      <webElementGuid>123ed3dc-28ae-4c73-99f5-4dd8c16b66b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/i</value>
+      <webElementGuid>72be290a-6dfd-49fe-900c-0a6353f6c981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@id = 'searchInput']</value>
+      <webElementGuid>cca00ee0-dcb8-4507-a215-a4ed4cfed128</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

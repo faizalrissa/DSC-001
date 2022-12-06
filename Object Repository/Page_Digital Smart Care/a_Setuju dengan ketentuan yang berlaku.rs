@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Setuju dengan ketentuan yang berlaku</name>
+   <tag></tag>
+   <elementGuidId>27afb311-9384-4033-bcb5-a6d70d67c7d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.AgentLogin-component__disclaimer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/form/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>306ead10-17c9-4a9e-855a-78d32f4c4290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AgentLogin-component__disclaimer</value>
+      <webElementGuid>63604e93-5d86-464f-8e18-da8cad531245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setuju dengan ketentuan yang berlaku</value>
+      <webElementGuid>efc9b734-0d46-4fb5-9c3f-5a6b491ac32e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;Login-layout__loginLayoutWrapper&quot;]/div[@class=&quot;Login-layout__loginLayout&quot;]/div[@class=&quot;LoginAgent-container__loginContainer&quot;]/div[@class=&quot;LoginAgent-container__loginImageSection&quot;]/div[@class=&quot;LoginAgent-container__twoColumns&quot;]/div[@class=&quot;LoginAgent-container__second&quot;]/div[@class=&quot;LoginAgent-container__loginFormSection&quot;]/div[@class=&quot;LoginAgent-container__loginFormContainer&quot;]/div[@class=&quot;LoginAgent-container__loginFormContent&quot;]/div[@class=&quot;AgentLogin-component__agentLoginComponent&quot;]/form[@class=&quot;AgentLogin-component__agentLoginFormComponent&quot;]/div[@class=&quot;AgentLogin-component__inputLogin&quot;]/a[@class=&quot;AgentLogin-component__disclaimer&quot;]</value>
+      <webElementGuid>ed58451c-34fc-4a65-9acb-fe2353e3f9c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/form/div/a</value>
+      <webElementGuid>5f1787b4-9278-4836-bcc9-8afb7c239eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Setuju dengan ketentuan yang berlaku')]</value>
+      <webElementGuid>c050c420-ff08-406d-bcee-136f53671a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk menggunakan'])[1]/following::a[1]</value>
+      <webElementGuid>c9c231a6-2f34-433a-aac6-ef874bda3968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kepentingan pribadi'])[1]/following::a[1]</value>
+      <webElementGuid>e57afb8c-f53b-4466-ac44-7d82d48d5b37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::a[1]</value>
+      <webElementGuid>77bade9d-e975-4bd9-80c7-91ced28a9879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>4483bca7-31ec-4818-b709-7b5d9449dfc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Setuju dengan ketentuan yang berlaku' or . = 'Setuju dengan ketentuan yang berlaku')]</value>
+      <webElementGuid>6f24c7f3-6195-4759-b0ff-2304583e7518</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

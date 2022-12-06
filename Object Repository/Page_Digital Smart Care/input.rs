@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input</name>
+   <tag></tag>
+   <elementGuidId>07ef85c6-6bfc-41a5-a238-b90e6c3d5fe6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.InlineItems-component__inlineItems.InlineItems-component__space-md.InlineItems-component__wrap.DashboardAgent-container__searchContainer > div.InputSearch-component__searchContainer > div.InputSearch-component__inputContainer > input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>dc506b11-9155-445c-9284-36fbbf9fac9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>co. 081234567321</value>
+      <webElementGuid>61230bf8-d21c-4b42-8975-0bc9456d89fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>b4177c2b-5cde-4111-a205-306b10c8ebbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;Agent-layout__appLayout&quot;]/div[@class=&quot;Agent-layout__container&quot;]/div[@class=&quot;Agent-layout__content&quot;]/div[@class=&quot;DashboardAgent-container__dashboardAgentContainer&quot;]/div[@class=&quot;Stack-component__stack Stack-component__space-lg DashboardAgent-container__right&quot;]/div[@class=&quot;InlineItems-component__inlineItems InlineItems-component__space-md InlineItems-component__wrap DashboardAgent-container__searchContainer&quot;]/div[@class=&quot;InputSearch-component__searchContainer&quot;]/div[@class=&quot;InputSearch-component__inputContainer&quot;]/input[1]</value>
+      <webElementGuid>8f133811-ad16-4d64-817d-2c13f28e8c6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>73aaa418-8d90-426a-8d82-45b475ba2691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div[2]/div/div/div/input</value>
+      <webElementGuid>96e26c13-b3e4-45c3-876a-a82a4df4741c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/input</value>
+      <webElementGuid>05990516-5d30-4561-8282-ee1bb9292a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'co. 081234567321']</value>
+      <webElementGuid>b98e6418-2a5f-4f45-bb2b-c5d3e0d0b0f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

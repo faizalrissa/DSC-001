@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jaga Rahasia PelangganCegah Segala Pote_9be664</name>
+   <tag></tag>
+   <elementGuidId>9e48966f-5ba6-4926-9ab3-a60a9f0fb1bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.LoginAgent-container__twoColumns</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ef2db55-eb84-426b-a2fa-5822dceeb1b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LoginAgent-container__twoColumns</value>
+      <webElementGuid>42849905-1663-40d1-bb66-f0c454306a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jaga Rahasia PelangganCegah Segala Potensi PenyalahgunaanIngat ya!Setiap transaksi/kegiatan di pelayanan harus atas persetujuan pelanggan dengan menyertakan dokumen validAkses Query Data Pelanggan hanya untuk kepentingan operasional pelayanan. Dilarang mengakses dan menyebarluaskan data pelanggan demi kepentingan pribadiSegala bentuk penyalahgunaan data pelanggan akan dikenakan sanksi administrasi dan pidana sesuai ketentuan perundang-undangan yang berlakuMasuk menggunakanSetuju dengan ketentuan yang berlakuMasuk</value>
+      <webElementGuid>8c3e01fe-8bba-435c-ad9b-647e209fdbfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;Login-layout__loginLayoutWrapper&quot;]/div[@class=&quot;Login-layout__loginLayout&quot;]/div[@class=&quot;LoginAgent-container__loginContainer&quot;]/div[@class=&quot;LoginAgent-container__loginImageSection&quot;]/div[@class=&quot;LoginAgent-container__twoColumns&quot;]</value>
+      <webElementGuid>1b5932c4-7710-47aa-bce7-5bdf861684ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div</value>
+      <webElementGuid>3fb52dae-eda6-4e44-8cd9-a774c890e18f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIB'])[1]/following::div[3]</value>
+      <webElementGuid>64f8e3bc-0d7f-42e0-9af3-9886d6300620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waktu Server'])[1]/following::div[3]</value>
+      <webElementGuid>d04742d7-b256-441a-90c8-0ff9a198bbea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>7428e46b-6e85-4257-8930-684a3b3ec223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jaga Rahasia PelangganCegah Segala Potensi PenyalahgunaanIngat ya!Setiap transaksi/kegiatan di pelayanan harus atas persetujuan pelanggan dengan menyertakan dokumen validAkses Query Data Pelanggan hanya untuk kepentingan operasional pelayanan. Dilarang mengakses dan menyebarluaskan data pelanggan demi kepentingan pribadiSegala bentuk penyalahgunaan data pelanggan akan dikenakan sanksi administrasi dan pidana sesuai ketentuan perundang-undangan yang berlakuMasuk menggunakanSetuju dengan ketentuan yang berlakuMasuk' or . = 'Jaga Rahasia PelangganCegah Segala Potensi PenyalahgunaanIngat ya!Setiap transaksi/kegiatan di pelayanan harus atas persetujuan pelanggan dengan menyertakan dokumen validAkses Query Data Pelanggan hanya untuk kepentingan operasional pelayanan. Dilarang mengakses dan menyebarluaskan data pelanggan demi kepentingan pribadiSegala bentuk penyalahgunaan data pelanggan akan dikenakan sanksi administrasi dan pidana sesuai ketentuan perundang-undangan yang berlakuMasuk menggunakanSetuju dengan ketentuan yang berlakuMasuk')]</value>
+      <webElementGuid>b75cccd1-fbe4-484c-895b-edad02b18b34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
